@@ -126,10 +126,10 @@ int main()
 	kSmalest(arr, n, k);
 }
 
-// This code is contributed by Pushpesh Raj.
 
 
-K’th smallest element in an unsorted array using sorting:
+
+////////////////////////////////////K’th smallest element in an unsorted array using sorting://///////////////////////////////////////////////////
 // C++ program to find K'th smallest element
 #include <bits/stdc++.h>
 using namespace std;
